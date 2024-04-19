@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1075852457290",
+    "project_id": "raidfield2-a7455",
+    "storage_bucket": "raidfield2-a7455.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075852457290:android:9b6a590d91ada9d1b0bdb3",
+        "android_client_info": {
+          "package_name": "com.alphatikinc.raidfield2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075852457290-67u4jj1embqrnea1t1inqlvtol3ih91a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-TOjLZZRiwV2oKJ1QxMsRyqJR4WdQ0S4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075852457290-67u4jj1embqrnea1t1inqlvtol3ih91a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1075852457290-f7slebkkn7lf8ip9ga3pupfmf3hcelqh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.alphatik.raidfield2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

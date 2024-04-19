@@ -1,0 +1,262 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="DG.Tweening.DOTweenAnimation" preserve="all" />
+    <type fullname="MiniTween.Components.MiniTweenFade" preserve="all" />
+    <type fullname="MiniTween.MiniTweenController" preserve="all" />
+    <type fullname="MiniTween.Properties.MiniTweenFadeProperties" preserve="all" />
+    <type fullname="RF.AddressableDownloadLoadingUi" preserve="all" />
+    <type fullname="RF.Auxilary.SimpleRotator" preserve="all" />
+    <type fullname="RF.CurrenciesInfoDatabase" preserve="all" />
+    <type fullname="RF.MainMenuAllRoomTutUi" preserve="all" />
+    <type fullname="RF.MainMenuCreateRoomTutUi" preserve="all" />
+    <type fullname="RF.MainMenuLevelUpAndClaimRewardTutorialItem" preserve="all" />
+    <type fullname="RF.Meta.UI.Panels.UnipolyQuestPanel.UnipolyQuestPanelQuestItem" preserve="all" />
+    <type fullname="RF.Meta.UI.Panels.UnipolyQuestPanel.UnipolyQuestPanelRewardImage" preserve="all" />
+    <type fullname="RF.Meta.UI.Panels.UnipolyQuestPanel.UnipolyQuestPanelSocialItem" preserve="all" />
+    <type fullname="RF.Tools.DefaultDatabase" preserve="all" />
+    <type fullname="RF.Tools.DefaultDoubleBtnPopupUiDatabase" preserve="all" />
+    <type fullname="RF.Tools.DefaultPopupUiDatabase" preserve="all" />
+    <type fullname="RF.Tools.DefaultSingleBtnPopupUiDatabase" preserve="all" />
+    <type fullname="RF.Tools.DeploymentCurrencyPopupUiDatabase" preserve="all" />
+    <type fullname="RF.Tools.PopupsUiDatabase" preserve="all" />
+    <type fullname="RF.Tools.PremiumRoomLearnMorePopupUiDatabase" preserve="all" />
+    <type fullname="RF.Tools.PremiumRoomRewardsPopupUiDatabase" preserve="all" />
+    <type fullname="RF.Tools.ResetScale" preserve="all" />
+    <type fullname="RF.Tools.SliderUiDatabase" preserve="all" />
+    <type fullname="RF.Tools.TutChangeAutoshotPopupUiDatabase" preserve="all" />
+    <type fullname="RF.TutItem" preserve="all" />
+    <type fullname="RF.Ui.AchievementProfileAchievementUi" preserve="all" />
+    <type fullname="RF.Ui.AchievementProfileAchievementUiItem" preserve="all" />
+    <type fullname="RF.Ui.AnimButton" preserve="all" />
+    <type fullname="RF.Ui.BlueSoldierLoadoutSlotUiItem" preserve="all" />
+    <type fullname="RF.Ui.ChangePasswordPopupUi" preserve="all" />
+    <type fullname="RF.Ui.CommonUi" preserve="all" />
+    <type fullname="RF.Ui.ConnectionLoadingUi" preserve="all" />
+    <type fullname="RF.Ui.DeployCurrencyInfoUiItem" preserve="all" />
+    <type fullname="RF.Ui.DeploymentCurrencyInfoPopupUi" preserve="all" />
+    <type fullname="RF.Ui.DeploymentCurrencyUiItem" preserve="all" />
+    <type fullname="RF.Ui.DeployTypeMatchEasyGameplaySelectionUiItem" preserve="all" />
+    <type fullname="RF.Ui.DoubleToggleUiItem" preserve="all" />
+    <type fullname="RF.Ui.EasyGameplaySelectionUi" preserve="all" />
+    <type fullname="RF.Ui.EntryFeeTglUiItem" preserve="all" />
+    <type fullname="RF.Ui.EquipmentUpgradeDataSliderUiItem" preserve="all" />
+    <type fullname="RF.Ui.EquipmentUpgradeDataUiItem" preserve="all" />
+    <type fullname="RF.Ui.ForgotPasswordPopupUi" preserve="all" />
+    <type fullname="RF.Ui.FpsCounterUi" preserve="all" />
+    <type fullname="RF.Ui.GemCurrencyUiItem" preserve="all" />
+    <type fullname="RF.Ui.GoldCurrencyInfoPopupUi" preserve="all" />
+    <type fullname="RF.Ui.GoldCurrencyUiItem" preserve="all" />
+    <type fullname="RF.Ui.HighlightIndicatorUiItem" preserve="all" />
+    <type fullname="RF.Ui.ImageSliderUi" preserve="all" />
+    <type fullname="RF.Ui.InGameGameNotAvailablePopupUi" preserve="all" />
+    <type fullname="RF.Ui.InGameLoadoutUi" preserve="all" />
+    <type fullname="RF.Ui.JoinAndCreateRoomUi" preserve="all" />
+    <type fullname="RF.Ui.JoinPreviousRoomPopupUi" preserve="all" />
+    <type fullname="RF.Ui.KitLoadoutSlotUiItem" preserve="all" />
+    <type fullname="RF.Ui.LauncherWeaponLoadoutSlotUiItem" preserve="all" />
+    <type fullname="RF.Ui.LearnMorePremiumRoomEasyGameplaySelectionUiItem" preserve="all" />
+    <type fullname="RF.Ui.LeaveRoomAnywayPopupUi" preserve="all" />
+    <type fullname="RF.Ui.LoadingUi" preserve="all" />
+    <type fullname="RF.Ui.LoadoutSlotNumberUiItem" preserve="all" />
+    <type fullname="RF.Ui.LoadoutUi" preserve="all" />
+    <type fullname="RF.Ui.LoginRegisterUi" preserve="all" />
+    <type fullname="RF.Ui.MainLoadingUi" preserve="all" />
+    <type fullname="RF.Ui.MainMenuExitGamePopupUi" preserve="all" />
+    <type fullname="RF.Ui.MainMenuGeneralUi" preserve="all" />
+    <type fullname="RF.Ui.MainMenuLoadoutUi" preserve="all" />
+    <type fullname="RF.Ui.MainMenuSelectKitUi" preserve="all" />
+    <type fullname="RF.Ui.MainMenuSelectSoldierUi" preserve="all" />
+    <type fullname="RF.Ui.MainMenuSelectWeaponSkinUi" preserve="all" />
+    <type fullname="RF.Ui.MainMenuSelectWeaponUi" preserve="all" />
+    <type fullname="RF.Ui.MedalProfileAchievementUi" preserve="all" />
+    <type fullname="RF.Ui.MedalProfileAchievementUiItem" preserve="all" />
+    <type fullname="RF.Ui.NormalRoomAllRoomsUi" preserve="all" />
+    <type fullname="RF.Ui.NormalRoomAllRoomsUiGameModeTglUiItem" preserve="all" />
+    <type fullname="RF.Ui.NormalRoomAllRoomsUiMapTglUiItem" preserve="all" />
+    <type fullname="RF.Ui.NormalRoomAllRoomsUiRoomUiItem" preserve="all" />
+    <type fullname="RF.Ui.NormalRoomBattlePopupUi" preserve="all" />
+    <type fullname="RF.Ui.NormalRoomCreateRoomUi" preserve="all" />
+    <type fullname="RF.Ui.NormalRoomCreateRoomUiGameModeTglUiItem" preserve="all" />
+    <type fullname="RF.Ui.NormalRoomCreateRoomUiMapTglUiItem" preserve="all" />
+    <type fullname="RF.Ui.NormalRoomSelectRoomUi" preserve="all" />
+    <type fullname="RF.Ui.PlayerPlaceRewardUiItem" preserve="all" />
+    <type fullname="RF.Ui.PremiumRoomAllRoomsUi" preserve="all" />
+    <type fullname="RF.Ui.PremiumRoomAllRoomsUiGameModeTglUiItem" preserve="all" />
+    <type fullname="RF.Ui.PremiumRoomAllRoomsUiMapTglUiItem" preserve="all" />
+    <type fullname="RF.Ui.PremiumRoomAllRoomsUiRoomUiItem" preserve="all" />
+    <type fullname="RF.Ui.PremiumRoomBattlePopupUi" preserve="all" />
+    <type fullname="RF.Ui.PremiumRoomConfirmationGemPopupUi" preserve="all" />
+    <type fullname="RF.Ui.PremiumRoomCreateRoomUi" preserve="all" />
+    <type fullname="RF.Ui.PremiumRoomCreateRoomUiGameModeTglUiItem" preserve="all" />
+    <type fullname="RF.Ui.PremiumRoomCreateRoomUiMapTglUiItem" preserve="all" />
+    <type fullname="RF.Ui.PremiumRoomLearnMorePopupUi" preserve="all" />
+    <type fullname="RF.Ui.PremiumRoomNotEnoughGemPopupUi" preserve="all" />
+    <type fullname="RF.Ui.PremiumRoomRewardsPopupUi" preserve="all" />
+    <type fullname="RF.Ui.PremiumRoomSelectRoomUi" preserve="all" />
+    <type fullname="RF.Ui.PrimaryWeaponLoadoutSlotUiItem" preserve="all" />
+    <type fullname="RF.Ui.ProfileUiItem" preserve="all" />
+    <type fullname="RF.Ui.QuickGameModeMatchEasyGameplaySelectionUiItem" preserve="all" />
+    <type fullname="RF.Ui.RawImageUiItem" preserve="all" />
+    <type fullname="RF.Ui.ReconnectingToMatchLoadingUi" preserve="all" />
+    <type fullname="RF.Ui.RedNotifUiItem" preserve="all" />
+    <type fullname="RF.Ui.RedSoldierLoadoutSlotUiItem" preserve="all" />
+    <type fullname="RF.Ui.RoomEntryFeeAndRewardsParentUiItem" preserve="all" />
+    <type fullname="RF.Ui.RoomEntryFeeAndRewardsUiItem" preserve="all" />
+    <type fullname="RF.Ui.RoomSizeTglUiItem" preserve="all" />
+    <type fullname="RF.Ui.SelectRoomEasyGameplaySelectionUiItem" preserve="all" />
+    <type fullname="RF.Ui.ShowcaseUiItem" preserve="all" />
+    <type fullname="RF.Ui.SoldierShowcaseUiItem" preserve="all" />
+    <type fullname="RF.Ui.SoldierTokenCurrencyInfoPopupUi" preserve="all" />
+    <type fullname="RF.Ui.SoldierTokenCurrencyUiItem" preserve="all" />
+    <type fullname="RF.Ui.SplashScreenUi" preserve="all" />
+    <type fullname="RF.Ui.TabUiItem" preserve="all" />
+    <type fullname="RF.Ui.ToggleLblChangerUi" preserve="all" />
+    <type fullname="RF.Ui.TutChangeAutoShotPopupUi" preserve="all" />
+    <type fullname="RF.Ui.TutMsgPopupUi" preserve="all" />
+    <type fullname="RF.Ui.UnipolyCoinExchangeConfirmationPanel" preserve="all" />
+    <type fullname="RF.Ui.UnipolyCoinExchangeGemPanel" preserve="all" />
+    <type fullname="RF.Ui.UnipolyCoinTabUI" preserve="all" />
+    <type fullname="RF.Ui.UnipolyQuestExchangeSuccessPanel" preserve="all" />
+    <type fullname="RF.Ui.UnipolyQuestPanel" preserve="all" />
+    <type fullname="RF.Ui.UnipolyQuestPanelDataBase" preserve="all" />
+    <type fullname="RF.Ui.UnipolyQuestPanelMessageBox" preserve="all" />
+    <type fullname="RF.Ui.UnipolyQuestTransactionHistoryPanel" preserve="all" />
+    <type fullname="RF.Ui.UnipolyQuestTransactionView" preserve="all" />
+    <type fullname="RF.Ui.UnipolyTokenPopupUi" preserve="all" />
+    <type fullname="RF.Ui.UserBannedPopupUi" preserve="all" />
+    <type fullname="RF.Ui.VehicleSkinTokenCurrencyInfoPopupUi" preserve="all" />
+    <type fullname="RF.Ui.VehicleSkinTokenCurrencyUiItem" preserve="all" />
+    <type fullname="RF.Ui.VehicleUpgradeTokenCurrencyInfoPopupUi" preserve="all" />
+    <type fullname="RF.Ui.VehicleUpgradeTokenCurrencyUiItem" preserve="all" />
+    <type fullname="RF.Ui.VerticalUiItemLayout" preserve="all" />
+    <type fullname="RF.Ui.WarSupplyCurrencyInfoPopupUi" preserve="all" />
+    <type fullname="RF.Ui.WarSupplyCurrencyUiItem" preserve="all" />
+    <type fullname="RF.Ui.WeaponSkinTokenCurrencyInfoPopupUi" preserve="all" />
+    <type fullname="RF.Ui.WeaponSkinTokenCurrencyUiItem" preserve="all" />
+    <type fullname="RF.Ui.WeaponUpgradeTokenCurrencyInfoPopupUi" preserve="all" />
+    <type fullname="RF.Ui.WeaponUpgradeTokenCurrencyUiItem" preserve="all" />
+    <type fullname="RF.UnipolyQuestPanelTabButton" preserve="all" />
+    <type fullname="SafeAreaPanel" preserve="all" />
+    <type fullname="RF.Ui.TaskProviderRedNotifHandler" preserve="nothing" serialized="true" />
+    <type fullname="RF.Ui.RewardPathRedNotifHandler" preserve="nothing" serialized="true" />
+    <type fullname="RF.Tools.ETutItemType" preserve="nothing" serialized="true" />
+    <type fullname="RF.Tools.ETeamName" preserve="nothing" serialized="true" />
+    <type fullname="RF.Tools.ECurrencyType" preserve="nothing" serialized="true" />
+    <type fullname="RF.Tools.EDeployType" preserve="nothing" serialized="true" />
+    <type fullname="RF.Tools.EGameMode" preserve="nothing" serialized="true" />
+    <type fullname="RF.Tools.ERoomType" preserve="nothing" serialized="true" />
+    <type fullname="RF.Tools.ESelectRoomsUiTabType" preserve="nothing" serialized="true" />
+    <type fullname="RF.CurrencyInfoData" preserve="nothing" serialized="true" />
+    <type fullname="RF.Tools.EPopupName" preserve="nothing" serialized="true" />
+    <type fullname="RF.Tools.PopupUiData" preserve="nothing" serialized="true" />
+    <type fullname="MiniTween.MiniTweenBehaviour/MiniTweenType" preserve="nothing" serialized="true" />
+    <type fullname="RF.Ui.UnipolyQuestPanel/MissionTab" preserve="nothing" serialized="true" />
+    <type fullname="RF.Ui.UnipolyQuestPanelDataBase/GemValueInfo" preserve="nothing" serialized="true" />
+    <type fullname="RF.Ui.UnipolyQuestPanelDataBase/MessageInfo" preserve="nothing" serialized="true" />
+    <type fullname="RF.Ui.UnipolyQuestPanelDataBase/MessageType" preserve="nothing" serialized="true" />
+    <type fullname="RF.Ui.UnipolyQuestPanelDataBase/TabButtonDataBase" preserve="nothing" serialized="true" />
+    <type fullname="RF.Ui.UnipolyQuestPanelDataBase/TabButtonDataBase/TabButtonStateViewInfo" preserve="nothing" serialized="true" />
+    <type fullname="RF.Ui.UnipolyQuestPanelDataBase/TransactionTabDataBase" preserve="nothing" serialized="true" />
+    <type fullname="RF.Ui.UnipolyQuestPanelDataBase/UnipolyCoinTabDataBase" preserve="nothing" serialized="true" />
+    <type fullname="RF.Ui.UnipolyQuestPanelDataBase/UnipolyTokenInfo" preserve="nothing" serialized="true" />
+    <type fullname="RF.Tools.SliderUiData" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+    <type fullname="UnityEngine.AddressableAssets.AssetReference" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.AddressableAssets.AssetReferenceSprite" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AtlasSpriteProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
+    <type fullname="TMPro.TMP_FontAsset" preserve="all" />
+    <type fullname="TMPro.TMP_InputField" preserve="all" />
+    <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.KerningTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphPairAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphValueRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/OnChangeEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/SelectionEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/SubmitEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/TextSelectionEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/TouchScreenKeyboardEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.RenderTexture" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.U2D.SpriteAtlas" preserve="all" />
+    <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Font" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.EventSystems.EventTrigger" preserve="all" />
+    <type fullname="UnityEngine.UI.AspectRatioFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
+    <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
+    <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
+    <type fullname="UnityEngine.UI.Mask" preserve="all" />
+    <type fullname="UnityEngine.UI.Outline" preserve="all" />
+    <type fullname="UnityEngine.UI.RawImage" preserve="all" />
+    <type fullname="UnityEngine.UI.RectMask2D" preserve="all" />
+    <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
+    <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
+    <type fullname="UnityEngine.UI.Shadow" preserve="all" />
+    <type fullname="UnityEngine.UI.Slider" preserve="all" />
+    <type fullname="UnityEngine.UI.Toggle" preserve="all" />
+    <type fullname="UnityEngine.UI.ToggleGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Toggle/ToggleEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Slider/SliderEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.EventSystems.EventTrigger/Entry" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.EventSystems.EventTrigger/TriggerEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Scrollbar/ScrollEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Canvas" preserve="all" />
+    <type fullname="UnityEngine.CanvasGroup" preserve="all" />
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextCoreFontEngineModule">
+    <type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphRect" preserve="nothing" serialized="true" />
+  </assembly>
+</linker>
